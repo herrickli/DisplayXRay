@@ -20,6 +20,7 @@
   ----2.xml
   ----...
 ```
+- 运行 $ python data/get_data.py
 ## 运行脚本文件 
 - $ sh prepare.sh 
 - (如果未安装git或sh，打开prepare.sh文件依次输入命令)

@@ -1,9 +1,0 @@
-/data
-
-/dist
-
-!/data/get_data.py
-
-/node_modules
-
-data.json
